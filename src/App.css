@@ -132,3 +132,7 @@
   letter-spacing: .8px;
   border: 1px solid #1899D6;
 }
+
+.customers:hover {
+  cursor: pointer;
+}
